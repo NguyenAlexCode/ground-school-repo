@@ -1,0 +1,15 @@
+Flight Controller: SpeedyBee F405 Mini BLS 35A 20x20 Stack
+- AxisFlying Argus Mini F7 Flight Controller - ICM42688 - 20x20
+
+Sensors:
+    GPS Module: BZGNSS BZ-121 BZ-181 BZ-251 (UART)
+    - https://www.amazon.com/Protocol-BZ-251-FailSafe-Fixed-Wing-Aircraft/dp/B0FP5JVZ17/ref=sr_1_1?crid=23MDPJJFO3116&dib=eyJ2IjoiMSJ9.7O-LaKjqBDkdW2eCggGUjboYH4ZMxIZnShuJG1uCKntU5Ayk06UWDrgtxlXdO-NyiTYlnEjWtRKyeOf7ea2CXzW6HWyZ7PvIwnhHcf_91iaSnS2KdvZ0fQYt-2mD3yEFYHcnJFHBBmIOdgr3UjShaZqa77_jFvli-FjxxZKb6qb2Jxip6bq-5_FtbRVpdqjd0J7u54nN5AsG5_3JARJ13SJ5JLZ6h-YUdI0Joojv-P3SUc2D0N_79xYQhvmN0O2a0Lv8jCRexFC9_d46itfkhxFM0C1Gez8yzKVO7-qfBTs.AENFMt9N-rkxI-kadFo2xhVHm2hDFbS80PLNaVWK4f0&dib_tag=se&keywords=BZGNSS%2Bbz%2B181%2B251&linkCode=sl2&linkId=841e62a3f6f07473293d63adc5989f1f&qid=1791336129&sprefix=bzgnss%2Bbz%2B181%2B25%2Caps%2C196&sr=8-1&th=1
+    Drone Camera: RunCam HDZero Nano 90 V2 FPV Camera
+    - https://www.getfpv.com/fpv/cameras/runcam-hdzero-nano-90-v2-fpv-camera.html
+    Video Transmitter: 5804 VTX 5.8G 48CH 25mW 100mW 200mW Switchable Video Transmitter for FPV Racing Drone Quadcopter
+    - https://hobbymatehobby.com/products/5804-vtx-5-8g-48ch-25mw-100mw-200mw-switchable-video-transmitter-for-fpv-racing-drone-quadcopter?srsltid=AU7gw4W9f-jGmOIZxytAJaIFL3UA1gMFWFwVpe2OqdjtrmrF0iK1ceNiWjg
+    RC Transmitters & Receivers: (UART)
+    - Transmitter: Radiomaster Pocket ELRS
+        - https://www.amazon.com/RADIOMASTER-Pocket-Radio-ExpressLRS-Transparent/dp/B0CJCS1VV1/ref=sr_1_9?crid=CO03EOL1QRF3&dib=eyJ2IjoiMSJ9.deXRfIvL2S1BxJG8RhfrHtbU3SnASHYCBbTw8G-lgRMFp5oUCIYpq5pheqtd00YnO0FcCx-Nwta5VGc79wpMW4rrBOG4O55lu8rATSDBwlhdNTS9sLs-UsPAk7hTtg38PqtiNjvnILnRWTSaxBBTx-ncVDsibpi_S7DPAAA7EwY0dwWjIpsj2YEO3UrDnuI7m744uDPVfhvDhm1SwGVOVlynrqzDFhCUC7zW5o8MV1IEK6bMFOUilXhol1lMpYM6wwLIRtFhxZ-lhBKZrarJGBJv-E1PvCEDzAgbcTw765Y._fPFvq9pRbkFJjRUntkI6fQFMgR1MZcBU-WajbkLdaE&dib_tag=se&keywords=radiomaster+pocket+elrs&qid=1791336349&s=electronics&sprefix=radiomaster+pocket+elr%2Celectronics%2C191&sr=1-9
+    - Reciever: XR2 Nano 2.4GHz ExpressLRS Receiver
+        - https://radiomasterrc.com/collections/elrs-receivers/products/xr2-nano-2-4ghz-expresslrs-receiver
